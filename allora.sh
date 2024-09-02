@@ -81,7 +81,7 @@ cat <<EOF > config.json
        "alloraHomeDir": "/root/.allorad",
        "gas": "1000000",
        "gasAdjustment": 1.0,
-       "nodeRpc": "https://rpc.ankr.com/allora_testnet",
+       "nodeRpc": "https://allora-testnet-rpc.itrocket.net/",
        "maxRetries": 1,
        "delay": 1,
        "submitTx": false
